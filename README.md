@@ -1,13 +1,15 @@
-# Hey, I'm Calebe!
+# Hi, I'm Josias Calebe! :smile:
 
-| Now Playing                                                                                                                                      |
+I'm very passionate about programming, music, philosophy and a lot of other stuff! I love to create and develop things that makes our lives easier or better, always learning more and more on the way. I have experience in creating and consuming APIs, working with SQL databases, creating microservices for ecommerce and creating other projects for fun. I work primarily with C#, .NET Core and SQL, occasionaly working with C++, JavaScript and Python.
+
+| Now Playing :musical_note:                                                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | <a href="https://josias-calebe.vercel.app/now-playing?open"><img src="https://josias-calebe.vercel.app/now-playing" width="540" height="64"></a> |
 
 <table>
   <thead>
     <tr>
-      <th>Top Tracks</th>
+      <th>Top Recent Tracks</th>
     </tr>
   </thead>
   <tbody>
