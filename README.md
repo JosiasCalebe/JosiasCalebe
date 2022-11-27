@@ -1,6 +1,6 @@
 # Hi, I'm Josias Calebe! :smile:
 
-I'm very passionate about programming, music, philosophy and a lot of other stuff! I love to create and develop things that makes our lives easier and better, always learning more and more on the way. I have experience in creating and consuming APIs, working with SQL databases, creating microservices for ecommerce and creating other projects for fun. I work primarily with C#, .NET Core and SQL, occasionaly working with C++, JavaScript and Python.
+I'm very passionate about programming, music, reading and a lot of other stuff! I love to create and develop things that makes our lives easier and better, always learning more and more on the way. I have experience in creating and consuming APIs, working with SQL databases, creating microservices for ecommerce and creating other projects for fun. I work primarily with C#, .NET Core and SQL, occasionaly working with C++, JavaScript and Python.
 
 | Now Playing :musical_note:                                                                                                                       |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ |
